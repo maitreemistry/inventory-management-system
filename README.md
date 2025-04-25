@@ -47,7 +47,7 @@ This Inventory Management System is a web-based solution designed for efficient 
 
 ### 🗂️ Entity-Relationship (ER) Diagram
 
-![ER Diagram](images/ER.jpg)
+![ER Diagram](ER.png)
 
 ---
 
@@ -55,19 +55,19 @@ This Inventory Management System is a web-based solution designed for efficient 
 
 #### 📥 Level 0: Context Diagram
 
-![DFD Level 0](images/Level-0.jpg)
+![DFD Level 0](Level-0.png)
 
 ---
 
 #### 🔁 Level 1: Functional Overview
 
-![DFD Level 1](images/Level-1.jpg)
+![DFD Level 1](Level-1.png)
 
 ---
 
 #### 🔂 Level 2: Detailed Process Flow
 
-![DFD Level 2](images/Level-2.jpg)
+![DFD Level 2](Level-2.png)
 
 ---
 
@@ -85,7 +85,7 @@ This Inventory Management System is a web-based solution designed for efficient 
 - 💻 **Backend:** PHP  
 - 🛢️ **Database:** MySQL  
 - 📈 **Visualization:** amCharts5  
-- 🧮 **Design Tools:** ER and DFD diagrams  
+- 🧮 **Design Tools:** Canva (for DFDs and ER Diagram)  
 
 ---
 
@@ -105,10 +105,3 @@ This Inventory Management System is a web-based solution designed for efficient 
 - 📦 Exportable reports and customizable dashboards.
 - ⚠️ Automated low-stock alerts and order confirmations.
 
-
-
----
-
-## 📚 References
-
-- Project documentation, ER Diagram, and DFDs as provided.
