@@ -34,13 +34,13 @@ This Inventory Management System is a web-based solution designed for efficient 
 > Below are some screenshots of the Inventory Management System interface.
 
 ### 🖥️ Landing Page  
-![Index.html](index.jpg)
+![Index.html](index.png)
 
 ### 📋 Product Management Page  
-![Product Management](inventory.jpg)
+![Product Management](inventory.png)
 
 ### 📈 Graphical Analytics View  
-![Analytics View](graph.jpg)
+![Analytics View](graph.png)
 
 ---
 
