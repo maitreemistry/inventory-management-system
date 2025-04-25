@@ -29,6 +29,21 @@ This Inventory Management System is a web-based solution designed for efficient 
 
 ---
 
+## 📸 Project Screenshots
+
+> Below are some screenshots of the Inventory Management System interface.
+
+### 🖥️ Landing Page  
+![Index.html](index.jpg)
+
+### 📋 Product Management Page  
+![Product Management](inventory.jpg)
+
+### 📈 Graphical Analytics View  
+![Analytics View](graph.jpg)
+
+---
+
 ## 🗄️ Database Schema
 
 - **Suppliers:** `supplier_id` (PK)
